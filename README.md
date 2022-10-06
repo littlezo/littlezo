@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @littlezo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-littlezo/littlezo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 关于我、小小只，单身、170M、48KG
+- 👀 我的爱好，篮球，桌球、电子产品
+- 🌱 PHP全栈，go
+- 💞️ 欢迎合作
+- 📫 email: littlezov@qq.com mobile:13385571388
