@@ -12,6 +12,7 @@ What is forgetting: you come and I go as passers-by, can you be more specific: t
 </header>
 
 <p align="center">
+    <img src="github-metrics.svg">
     <img src="metrics.plugin.achievements.svg">
     <img src="metrics.plugin.followup.svg">
     <img src="metrics.plugin.topics.icons.svg">
